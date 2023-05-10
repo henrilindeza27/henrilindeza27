@@ -5,8 +5,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrilindeza27&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrilindeza27&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## 42
-[![<hlindeza>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<hlindeza>)](https://github.com/oakoudad/badge42)
+## 42Status
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hlindeza?1337Badge=off&UM6P=off" alt="hlindeza's 42 stats" /></a>
+ 
 ## Languages and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Henri-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
