@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrilindeza27&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 42
-[![<hlindeza>'s 42 stats](https://badge.mediaplus.ma/Green binary/<hlindeza>)](https://github.com/oakoudad/badge42)
+[![<hlindeza>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<hlindeza>)](https://github.com/oakoudad/badge42)
 ## Languages and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Henri-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
