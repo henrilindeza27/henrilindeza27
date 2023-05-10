@@ -6,6 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrilindeza27&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 42Status
+[Link To My 42Intra](https://profile.intra.42.fr/users/hlindeza)
+<br>
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hlindeza?1337Badge=off&UM6P=off" alt="hlindeza's 42 stats" /></a>
  
 ## Languages and tools:
