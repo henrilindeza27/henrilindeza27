@@ -5,12 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrilindeza27&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrilindeza27&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## 42Status
-[Link To My 42Intra](https://profile.intra.42.fr/users/hlindeza)
-<br>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhpgaciy002608l7apyyrhgn/stats?cursusId=21&coalitionId=112" alt="hlindeza's 42 stats" /></a>
- 
 ## Languages and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Henri-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
